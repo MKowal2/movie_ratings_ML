@@ -2,4 +2,4 @@
 
 Done in the Machine Learning CP831 course at Ryerson University.
 
-First, I clean the data, and extract useful features to predict ratings. Then, I create a recommender system for people based off of past ratings.
+First, I clean the data, and extract useful features to predict ratings. Then, I create a recommender system for people based off of past ratings and the plot summaries of the movies they liked, using TF-IDF.
